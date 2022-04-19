@@ -15,6 +15,9 @@
 .titulo{
     font-size: 40px;
 }
+.subtitulo{
+    color:cornflowerblue ;
+}
 .navegacion{
     background-color: #0a1266;
     grid-area: nav;
@@ -122,4 +125,7 @@
     height: 20px;
     background-color: rgba(0, 0, 0, 0.527);
     color: rgb(255, 255, 255);
+}
+.colores{
+    color: #0a1266;
 }
